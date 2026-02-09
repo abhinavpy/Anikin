@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CDC1430A2F21EA5A00FB3BF5 /* Anikin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Anikin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDC1430A2F21EA5A00FB3BF5 /* Anikin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Anikin.app; path = "/Users/abhinavpy/Desktop/CodeRepos/Anikin/build/Debug-iphoneos/Anikin.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				CDC1430C2F21EA5A00FB3BF5 /* Anikin */,
-				CDC1430B2F21EA5A00FB3BF5 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		CDC1430B2F21EA5A00FB3BF5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				CDC1430A2F21EA5A00FB3BF5 /* Anikin.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = CDC143012F21EA5A00FB3BF5;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = CDC1430B2F21EA5A00FB3BF5 /* Products */;
+			productRefGroup = CDC143012F21EA5A00FB3BF5;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
